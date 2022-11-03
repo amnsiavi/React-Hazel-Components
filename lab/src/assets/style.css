@@ -1,0 +1,63 @@
+@media only screen and (max-width:505px){
+
+    .side-m{
+
+        display:none;
+    }
+    .hamburger{
+
+        margin-top:1rem;
+        margin-left:1rem;
+        width:10vw;
+        height:5vh;
+    }
+    .close{
+        margin-top:1rem;
+        margin-left:1rem;
+        width:10vw;
+        height:5vh;
+
+    }
+}
+@media only screen and (min-width:506px){
+    .h-container{
+
+        background-color: white;
+    }
+    #stack-1{
+
+        display:none;
+    }
+    #stack-2{
+
+        display:none;
+    }
+    #stack-3{
+
+        display:none;
+    }
+    #stack-4{
+
+        display:none;
+    }
+    #c-container{
+
+        background-color:  white;
+    }
+}
+@media only screen and (min-device-width:506px){
+
+    #c-container{
+
+        background-color: white;
+    }
+}
+
+.icons{
+
+    color:white;
+    width:50px;
+    height:27px;
+    margin-top:20px;
+    
+}
